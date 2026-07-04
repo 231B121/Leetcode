@@ -21,8 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
