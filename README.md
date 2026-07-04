@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/231B121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
