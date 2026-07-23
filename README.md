@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/231B121/Leetcode/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/231B121/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/231B121/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/231B121/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/231B121/Leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/231B121/Leetcode/tree/master/0283-move-zeroes) |
 ## Recursion
 |  |
 | ------- |
