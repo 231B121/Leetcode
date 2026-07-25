@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/231B121/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/231B121/Leetcode/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/231B121/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/231B121/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/231B121/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
