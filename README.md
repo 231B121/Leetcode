@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/231B121/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/231B121/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/231B121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/231B121/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/231B121/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/231B121/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/231B121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/231B121/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/231B121/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/231B121/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/231B121/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/231B121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
