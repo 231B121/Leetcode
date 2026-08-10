@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/231B121/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/231B121/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/231B121/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/231B121/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/231B121/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/231B121/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/231B121/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/231B121/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2942-find-words-containing-character](https://github.com/231B121/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/231B121/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/231B121/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/231B121/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
