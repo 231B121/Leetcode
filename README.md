@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/231B121/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/231B121/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/231B121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/231B121/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/231B121/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/231B121/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/231B121/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/231B121/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
