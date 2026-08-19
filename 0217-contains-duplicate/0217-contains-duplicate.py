@@ -1,11 +1,11 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        gourav =  set()
-        for abhi in nums:
-            if abhi in gourav:
-                return True
-            gourav.add(abhi)
-        return False
-        
+    def containsDuplicate(self, nums):
+        hash_map = {}
 
-        
+        for num in nums:
+            if num in hash_map:
+                return True
+
+            hash_map[num] = 1
+
+        return False
