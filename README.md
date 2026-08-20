@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/231B121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/231B121/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/231B121/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/231B121/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/231B121/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/231B121/Leetcode/tree/master/3731-find-missing-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/231B121/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/231B121/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/231B121/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1859-sorting-the-sentence](https://github.com/231B121/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2942-find-words-containing-character](https://github.com/231B121/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/231B121/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/231B121/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/231B121/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
