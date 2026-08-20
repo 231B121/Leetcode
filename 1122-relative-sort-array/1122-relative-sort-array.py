@@ -1,17 +1,26 @@
 class Solution:
     def relativeSortArray(self, arr1, arr2):
+        from collections import defaultdict
+
+        count_map = defaultdict(int)
+        remaining = []
         result = []
-        
-        for i in range(len(arr2)):
-            for j in range(len(arr1)):
-                if arr1[j] == arr2[i]:
-                    result.append(arr1[j])
-                    arr1[j] = -1
-        
-        arr1.sort()
-        
+
+        for num in arr2:
+            count_map[num] = 0
+
+
         for num in arr1:
-            if num != -1:
-                result.append(num)
-                
+            if num in count_map:
+                count_map[num] += 1
+            else:
+                remaining.append(num)
+
+        remaining.sort()
+
+        for num in arr2:
+            result.extend([num] * count_map[num])
+
+        result.extend(remaining)
+
         return result
