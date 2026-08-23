@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/231B121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/231B121/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/231B121/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/231B121/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/231B121/Leetcode/tree/master/1122-relative-sort-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
