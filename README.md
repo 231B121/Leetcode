@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/231B121/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/231B121/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/231B121/Leetcode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/231B121/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/231B121/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/231B121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/231B121/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/231B121/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/231B121/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231B121/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/231B121/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
