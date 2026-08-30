@@ -1,13 +1,22 @@
 class Solution:
-    def isHappy(self, n: int) -> bool:
-        if(n==1 or n==7):
-            return True
-        elif(n<10):
-            return False
-        else:
-            sum =0
-            while(n>0):
-                temp = n%10
-                sum += temp*temp
-                n= n//10
-            return self.isHappy(sum) 
+    def isHappy(self, n):
+
+        seen = set()
+
+        while n != 1:
+
+            if n in seen:
+                return False
+
+            seen.add(n)
+
+            happy = 0
+
+            while n > 0:
+                digit = n % 10
+                happy += digit * digit
+                n //= 10
+
+            n = happy
+
+        return True
