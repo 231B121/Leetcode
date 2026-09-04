@@ -1,18 +1,13 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        # Function to swap elements in the array
-        def swap(arr, i, j):
-            arr[i], arr[j] = arr[j], arr[i]
+        nums = [n for n in nums if n > 0]
+        nums.sort()
+
+        target = 1
+        for n in nums:
+            if n == target:
+                target += 1
+            elif n > target:
+                return target
         
-        n = len(nums)
-        
-        for i in range(n):
-            while 0 < nums[i] <= n and nums[i] != nums[nums[i] - 1]:
-                swap(nums, i, nums[i] - 1)
-        
-        for i in range(n):
-            if nums[i] != i + 1:
-                return i + 1
-        
-        
-        return n + 1
+        return target
