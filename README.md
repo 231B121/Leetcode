@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/231B121/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/231B121/Leetcode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/231B121/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/231B121/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/231B121/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/231B121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/231B121/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/231B121/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/231B121/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/231B121/Leetcode/tree/master/0486-predict-the-winner) |
