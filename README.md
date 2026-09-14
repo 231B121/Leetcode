@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/231B121/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/231B121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/231B121/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/231B121/Leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/231B121/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/231B121/Leetcode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/231B121/Leetcode/tree/master/1140-stone-game-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/231B121/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/231B121/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
