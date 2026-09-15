@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/231B121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/231B121/Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/231B121/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/231B121/Leetcode/tree/master/0050-powx-n) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/231B121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/231B121/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/231B121/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/231B121/Leetcode/tree/master/0050-powx-n) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/231B121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/231B121/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/231B121/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/231B121/Leetcode/tree/master/0147-insertion-sort-list) |
