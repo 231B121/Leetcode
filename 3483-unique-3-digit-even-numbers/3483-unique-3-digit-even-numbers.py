@@ -1,24 +1,27 @@
 class Solution:
     def totalNumbers(self, digits):
-        n = len(digits)
-        seen = set()
+        freq = [0] * 10
+        for d in digits:
+            freq[d] += 1
 
-        for h in range(n):
-            if digits[h] == 0:
+        count = 0
+
+        for h in range(1, 10):
+            if freq[h] == 0:
                 continue
+            freq[h] -= 1
 
-            for t in range(n):
-                if t == h:
+            for t in range(0, 10):
+                if freq[t] == 0:
                     continue
+                freq[t] -= 1
 
-                for u in range(n):
-                    if u == h or u == t:
-                        continue
+                for u in range(0, 9, 2):
+                    if freq[u] > 0:
+                        count += 1
 
-                    if digits[u] % 2 != 0:
-                        continue
+                freq[t] += 1
 
-                    num = digits[h] * 100 + digits[t] * 10 + digits[u]
-                    seen.add(num)
+            freq[h] += 1
 
-        return len(seen)
+        return count
