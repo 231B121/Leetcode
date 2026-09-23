@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/231B121/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/231B121/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/231B121/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/231B121/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/231B121/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/231B121/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/231B121/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/231B121/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/231B121/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/231B121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/231B121/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/231B121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/231B121/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/231B121/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/231B121/Leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/231B121/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/231B121/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/231B121/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/231B121/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/231B121/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/231B121/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/231B121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/231B121/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/231B121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/231B121/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231B121/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/231B121/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/231B121/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/231B121/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
