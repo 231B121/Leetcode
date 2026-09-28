@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/231B121/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/231B121/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/231B121/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/231B121/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/231B121/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2942-find-words-containing-character](https://github.com/231B121/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/231B121/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/231B121/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/231B121/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/231B121/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/231B121/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
 | ------- |
