@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/231B121/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/231B121/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/231B121/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/231B121/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/231B121/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/231B121/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/231B121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/231B121/Leetcode/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/231B121/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/231B121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/231B121/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/231B121/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/231B121/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/231B121/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/231B121/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/231B121/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/231B121/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/231B121/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231B121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/231B121/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/231B121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/231B121/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/231B121/Leetcode/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/231B121/Leetcode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/231B121/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -402,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/231B121/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/231B121/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
