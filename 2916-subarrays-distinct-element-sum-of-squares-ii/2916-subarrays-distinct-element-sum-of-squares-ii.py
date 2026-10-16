@@ -1,36 +1,47 @@
+from typing import List
+
+
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
-        MOD = 10**9 + 7
+        MOD = 10 ** 9 + 7
         n = len(nums)
-        s = [0] * (4 * n)
-        q = [0] * (4 * n)
-        lz = [0] * (4 * n)
-
-        def app(o, ln, k):
-            q[o] += 2 * k * s[o] + k * k * ln
-            s[o] += k * ln
-            lz[o] += k
-
-        def upd(o, l, r, L, R):
-            if L <= l and r <= R:
-                app(o, r - l + 1, 1)
-                return
-            m = (l + r) >> 1
-            if lz[o]:
-                app(2*o, m - l + 1, lz[o])
-                app(2*o+1, r - m, lz[o])
-                lz[o] = 0
-            if L <= m:
-                upd(2*o, l, m, L, R)
-            if R > m:
-                upd(2*o+1, m+1, r, L, R)
-            s[o] = s[2*o] + s[2*o+1]
-            q[o] = q[2*o] + q[2*o+1]
-
+        SHIFT = 40
+        MASK = (1 << SHIFT) - 1
+        bit = [0] * (n + 1)
         last = {}
+        totC = 0
+        totS = 0
+        g = 0
         ans = 0
-        for i, x in enumerate(nums):
-            upd(1, 0, n-1, last.get(x, -1) + 1, i)
-            last[x] = i
-            ans = (ans + q[1]) % MOD
-        return ans
+        for j in range(n):
+            v = nums[j]
+            p = last.get(v, -1)
+            if p < 0:
+                R = totS + totC
+            else:
+                i = p + 1
+                q = 0
+                while i > 0:
+                    q += bit[i]
+                    i -= i & (-i)
+                cSuf = totC - (q >> SHIFT)
+                sSuf = totS - (q & MASK)
+                R = sSuf - p * cSuf
+                d = -((1 << SHIFT) + p)
+                i = p + 1
+                while i <= n:
+                    bit[i] += d
+                    i += i & (-i)
+                totC -= 1
+                totS -= p
+            d = (1 << SHIFT) + j
+            i = j + 1
+            while i <= n:
+                bit[i] += d
+                i += i & (-i)
+            totC += 1
+            totS += j
+            g += 2 * R + (j - p)
+            ans += g
+            last[v] = j
+        return ans % MOD
