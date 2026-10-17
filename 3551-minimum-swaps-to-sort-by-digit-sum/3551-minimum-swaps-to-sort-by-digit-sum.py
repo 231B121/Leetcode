@@ -1,39 +1,34 @@
-class Solution:
-    def minSwaps(self, nums: List[int]) -> int:
-        n = len(nums)
+class Solution(object):
 
-        def digSum(num):
-            total = 0
-            while num > 0:
-                total += num % 10
-                num //= 10
-            return total
+    def minSwaps(self, nums):
+        
+        arr = sorted(nums, key=lambda x: (self.digitSum(x), x))
+        
+        index_di = {num : i for i, num in enumerate(nums)}
 
-        arr = [(nums[i], i) for i in range(n)]
+        count = 0 
 
-        arr.sort(key=lambda x: (digSum(x[0]), x[0]))
+        for i in range(len(nums)):
+            if nums[i] != arr[i]:
 
-        pos = [0] * n
+                j = index_di[arr[i]]
 
-        for i in range(n):
-            pos[arr[i][1]] = i
+                nums[i], nums[j] = nums[j], nums[i]
 
-        fix = [False] * n
-        swaps = 0
+                index_di[nums[j]] = j
+                index_di[nums[i]] = i
 
-        for i in range(n):
-            if fix[i]:
-                continue
-
-            j = i
-            count = 0
-
-            while not fix[j]:
-                fix[j] = True
-                j = pos[j]
                 count += 1
 
-            if count > 1:
-                swaps += count - 1
+        return count
 
-        return swaps
+    
+    def digitSum(self, n):
+
+        sum = 0
+
+        while n > 0:
+            sum += n % 10
+            n //= 10
+        
+        return sum
