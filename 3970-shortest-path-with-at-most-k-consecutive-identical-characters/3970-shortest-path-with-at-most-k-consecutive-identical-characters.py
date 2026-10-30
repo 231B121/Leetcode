@@ -1,24 +1,34 @@
 class Solution:
-    def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
+    def shortestPath(
+        self, n: int, edges: List[List[int]], labels: str, k: int
+    ) -> int:
         g = [[] for _ in range(n)]
-        for u, v, w in edges:
-            g[u].append((v, w))
-        INF = 10**9
-        dist = [[INF] * (k + 1) for _ in range(n)]
-        pq = [(0, 0, 1)]
-        dist[0][1] = 0
+        for x, y, w in edges:
+            g[x].append((y, w))
+
+        dis = [[2**31 - 1] * (k + 1) for _ in range(n)]
+       
+        pq = []
+
+        dis[0][1] = 0
+        heappush(pq, (0, 0, 1))
+
         while pq:
-            d, u, cnt = heapq.heappop(pq)
-            if d > dist[u][cnt]:
+            d, x, cnt = heappop(pq)
+
+            if d > dis[x][cnt]:
                 continue
-            if u == n - 1:
+            if x == n - 1:
                 return d
-            for v, w in g[u]:
-                ncnt = cnt + 1 if labels[u] == labels[v] else 1
-                if ncnt > k:
+
+            for y, w in g[x]:
+                new_cnt = cnt + 1 if labels[x] == labels[y] else 1
+                if new_cnt > k:
                     continue
-                if d + w < dist[v][ncnt]:
-                    dist[v][ncnt] = d + w
-                    heapq.heappush(pq, (dist[v][ncnt], v, ncnt))
+
+                nd = d + w
+                if nd < dis[y][new_cnt]:
+                    dis[y][new_cnt] = nd
+                    heappush(pq, (nd, y, new_cnt))
+
         return -1
-        
